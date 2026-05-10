@@ -1,18 +1,3 @@
-# 1. Banco de Dados (Bloqueio total das finanças reais)
-*.db
-*.sqlite3
-financas_residenciais.db
-
-# 2. Relatórios e Ficheiros Exportados (Proteção de privacidade)
-*.pdf
-*.xlsx
-Extrato_Financeiro_PRO.xlsx
-Balanco_Financeiro_PRO.xlsx
-Lembretes_*.pdf
-Relatorio_Fluxo_*.pdf
-
-# 3. Cache do Python e Ficheiros de Sistema (Limpeza do repositório)
-__pycache__/
-*.pyc
-*.pyo
-.vscode/
+*.db 
+*.xlsx 
+*.pdf 
