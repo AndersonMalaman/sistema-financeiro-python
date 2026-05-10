@@ -1,3 +1,8 @@
-*.db 
-*.xlsx 
-*.pdf 
+__pycache__/
+*.pyc
+*.db
+.DS_Store
+.env
+venv/
+.idea/
+.vscode/
